@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       builder: (BuildContext context, Orientation orientation, DeviceType deviceType) {
         return const MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Flutter Demo',
+          title: 'Cimri Klon',
           home: NavbarWrapper(),
         );
       },
