@@ -1,16 +1,10 @@
-# flutter_cimri
+<h2 align="center">Cimri Mobile App Design Clone Project</h2>
 
-A new Flutter project.
+## TR (Türkçe Açıklama)
 
-## Getting Started
+<p>Bu proje, benim tarafımdan geliştirilen kişisel bir inisiyatiftir ve mevcut bir uygulamanın temel tasarım öğelerini ve işlevselliğini yeniden oluşturmayı amaçlamaktadır. Cimri Mobil Uygulaması Tasarım Klon Projesi, tasarım ve kullanıcı deneyimi becerilerimi geliştirmek amacıyla oluşturulmuş bir özgün çalışmadır.</p>
 
-This project is a starting point for a Flutter application.
+## EN (English Description)
 
-A few resources to get you started if this is your first Flutter project:
+<p>This is a personal initiative I've developed, recreating the fundamental design elements and functionality of an existing application. The Cimri Mobile App Design Clone Project aims to redesign and improve the user-friendly interface and user experience, as well as enhance my design skills.</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
